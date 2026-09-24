@@ -35,7 +35,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _NormalTexture1:
         m_Texture: {fileID: 2800000, guid: a0d02fd25b7564742842e20c310161b4, type: 3}
-        m_Scale: {x: 15, y: 15}
+        m_Scale: {x: 20, y: 20}
         m_Offset: {x: 0, y: 0}
     - _NormalTexture2:
         m_Texture: {fileID: 2800000, guid: 541398be44dfad54aa03df594f730c87, type: 3}
@@ -43,33 +43,33 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Alpha: 0.743
+    - _Alpha: 0.832
     - _CausticsAlpha: 2
-    - _CausticsScale: 0.4
+    - _CausticsScale: -16.39
     - _CausticsSpeed: 1
     - _CausticsStrength: 0
-    - _ColorStrength: 1.722
-    - _Depth: 3
+    - _ColorStrength: 2
+    - _Depth: 11.72
     - _Foam: 1
     - _FoamCutoff: 0.319
     - _FoamDepth: 1.53
     - _FoamScale: 5
     - _FoamSpeed: -0.8
     - _HighFrequency: 0
-    - _NormalStrength: 0.199
+    - _NormalStrength: 2
     - _RefractionScale: 7.3
     - _RefractionSpeed: 4.34
-    - _RefractionStrength: 0.407
-    - _RimStrength: 2.9
-    - _Smoothness: 0.386
+    - _RefractionStrength: 0
+    - _RimStrength: 0.85
+    - _Smoothness: 1
     - _TextureScale: 1
     - _WaterMovementSpeed: 1
     - _Wave: 0
     - _WaveAmplitude: 0
     - _WaveSpeed: 0
     m_Colors:
-    - _DeepWaterColor: {r: 0.082858644, g: 0.655061, b: 0.9245283, a: 1}
+    - _DeepWaterColor: {r: 0.14404595, g: 0.5393176, b: 0.7830189, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
-    - _RimColor: {r: 0.054512277, g: 0.2461066, b: 0.46226418, a: 1}
-    - _ShallowWaterColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.016820943, g: 0.24891742, b: 0.509434, a: 1}
+    - _ShallowWaterColor: {r: 0, g: 0.379179, b: 0.8207547, a: 1}
   m_BuildTextureStacks: []
